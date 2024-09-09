@@ -1,6 +1,6 @@
 # Text Summarizer App with Pegasus and Bart
 
-This is the code for a simple text summarizer app that I made using Flask, FastAPI, and Streamlit.
+This repository contains the code for a simple text summarizer app that I made using Flask, FastAPI, and Streamlit.
 
 The language models are based two open source models, [Google's Pegasus](https://huggingface.co/google/pegasus-xsum) and [Meta's BART](https://huggingface.co/facebook/bart-large-cnn).
 
