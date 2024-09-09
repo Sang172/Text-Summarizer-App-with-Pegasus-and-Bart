@@ -1,0 +1,7 @@
+huggingface-hub
+streamlit
+transformers
+torch
+flask
+sentencepiece
+fastapi
